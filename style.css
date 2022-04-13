@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+}
+
+a {
+  font-size: 25px !important;
+  width: 400px;
+  border-radius: 30px !important;
+  background-color: white;
+  color: black;
+}
+
+h2 {
+  font-size: 30px !important;
+}
